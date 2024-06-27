@@ -1,2 +1,2 @@
-# Dada
+./bgmi
 ./Bgmi
